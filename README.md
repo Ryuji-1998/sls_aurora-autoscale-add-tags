@@ -7,7 +7,7 @@ Plugin: 6.0.0
 SDK: 4.3.1
 ```
 ## 使い方
-1.付与したいタグのキーと値をvariable.pyに入力
+1.付与したいタグのKeyとValueをvariable.pyに入力
 
 2.デプロイ
 ```
