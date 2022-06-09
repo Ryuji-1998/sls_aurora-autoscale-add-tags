@@ -1,2 +1,2 @@
-key = "test"
-value = "1"
+key = ""
+value = ""
