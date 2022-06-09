@@ -20,6 +20,6 @@ serverless remove
 ## 作成されるリソース
 - Lambda(python3.8)
 - EventBridge
-- IAMロール
+- IAMポリシー
   - rds:AddTagsToResource
   - rds:ListTagsForResource
